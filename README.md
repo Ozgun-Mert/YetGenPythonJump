@@ -19,6 +19,7 @@ Bu repo YetGen Jump Python için açılmıştır.
     - Str
     - Bool
     - Veri Türleri ile İşlemler
+    
 
 
 
