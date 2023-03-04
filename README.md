@@ -19,6 +19,26 @@ Bu repo YetGen Jump Python için açılmıştır.
     - Str
     - Bool
     - Veri Türleri ile İşlemler
+
+## 3. Hafta'da Öğrenilenler
+- Karşılaştırma Operatörleri
+    - >
+    - <
+    - >=
+    - <=
+    - =
+    - ==
+    - !=
+- Mantıksal Operatörler
+    - And
+    - Or
+    - Not
+    - In
+- Karar Yapıları
+    - If
+    - Elif
+    - Else
+- Döngüler
     
 
 
