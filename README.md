@@ -22,23 +22,16 @@ Bu repo YetGen Jump Python için açılmıştır.
 
 ## 3. Hafta'da Öğrenilenler
 - Karşılaştırma Operatörleri
-    - >
-    - <
-    - >=
-    - <=
-    - =
-    - ==
-    - !=
 - Mantıksal Operatörler
-    - And
-    - Or
-    - Not
-    - In
 - Karar Yapıları
-    - If
-    - Elif
-    - Else
 - Döngüler
+
+## 4. Hafta'da Öğrenilenler
+- List
+- Tuple
+- Set
+- Dictionary
+- String Metodları
     
 
 
