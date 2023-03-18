@@ -32,7 +32,16 @@ Bu repo YetGen Jump Python için açılmıştır.
 - Set
 - Dictionary
 - String Metodları
-    
+
+## 5. Hafta'da Öğrenilenler
+- List Comprehension
+- Fonksiyon yapıları
+- Argüman ve Return
+- *args
+- **kwargs
+- Passt
+- Global ve Yerel Değişkenler
+- Lambda
 
 
 
