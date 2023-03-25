@@ -43,6 +43,10 @@ Bu repo YetGen Jump Python için açılmıştır.
 - Global ve Yerel Değişkenler
 - Lambda
 
+## 6. Hafta'da Öğrenilenler
+- Modüller
+- Hata Yönetimi
+- Gömülü Fonksiyonlar
 
 
 
