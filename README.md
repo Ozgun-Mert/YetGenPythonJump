@@ -48,7 +48,5 @@ Bu repo YetGen Jump Python için açılmıştır.
 - Hata Yönetimi
 - Gömülü Fonksiyonlar
 
-
-
-
-
+## 7. Hafta'da Öğrenilenler
+- Tekrar Haftası
