@@ -50,3 +50,8 @@ Bu repo YetGen Jump Python için açılmıştır.
 
 ## 7. Hafta'da Öğrenilenler
 - Tekrar Haftası
+
+## 8. Hafta'da Öğrenilenler
+- Dosya İşlemleri
+- Class
+- __init__ fonksiyonu
