@@ -1,0 +1,2 @@
+1	Özgün Mert Şahin	16	174.0	53.0	Zayıf
+2	Mert	20	190.0	84.0	Zayıf
