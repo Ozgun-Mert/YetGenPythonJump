@@ -55,3 +55,7 @@ Bu repo YetGen Jump Python için açılmıştır.
 - Dosya İşlemleri
 - Class
 - __init__ fonksiyonu
+
+## 9. Hafta'da Öğrenilenler
+- Nesne Tabanlı Programlama
+- İnheritence
