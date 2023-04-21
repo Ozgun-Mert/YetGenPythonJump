@@ -59,3 +59,6 @@ Bu repo YetGen Jump Python için açılmıştır.
 ## 9. Hafta'da Öğrenilenler
 - Nesne Tabanlı Programlama
 - İnheritence
+
+## 10. Hafta'da Öğrenilenler
+- Numpy
