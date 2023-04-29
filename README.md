@@ -62,3 +62,8 @@ Bu repo YetGen Jump Python için açılmıştır.
 
 ## 10. Hafta'da Öğrenilenler
 - Numpy
+
+## 11. Hafta'da Öğrenilenler
+- Pandas
+- Seaborn
+- Matplotlib
